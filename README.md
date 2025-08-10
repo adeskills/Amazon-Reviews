@@ -17,9 +17,9 @@ Customer loyalty and likelihood to recommend, based on Net Promoter Score (NPS)
 
 Project Objective:
 
-This project applies unsupervised machine learning techniques to analyze user reviews for Amazon's digital software products, uncovering patterns and actionable insights without relying
+This project applies unsupervised machine learning techniques to analyze user reviews for Amazon's digital software products, 
 
-on labeled training data.
+uncovering patterns and actionable insights without relying on labeled training data.
 
 Project Goals
 
